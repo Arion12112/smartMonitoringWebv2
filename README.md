@@ -1,0 +1,2 @@
+# smartMonitoringWeb
+ Web from scratch
